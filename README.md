@@ -53,14 +53,14 @@ The objective of this project is to automate this repetitive task by developing 
 
 ## Hardware
 
-- Orange Pi (Vision Computing)
-- ESP32-S3 (Real-time Controller)
-- USB Camera
-- DC Gear Motors
+- Raspberry Pi (Vision Computing)
+- Arduino Uno3 (Real-time Controller)
+- Raspberry Pi V2 Camera
+- DC Gear Motors (AB Encoder)
 - Servo Steering System
 - Vacuum Pump
-- Wireless Charging Module
-- Li-ion Battery System
+- Pogo Pin Charging Module
+- Li-ion Battery System (18650 2S2P)
 
 ---
 
@@ -142,8 +142,5 @@ Current work focuses on:
 
 ## Author
 
-Jay Tsai
+Jay Tsai, Helyn Wang
 
-McGill University
-
-Electrical and Computer Engineering
